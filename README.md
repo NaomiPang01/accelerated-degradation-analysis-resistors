@@ -3,6 +3,9 @@ Reliability Engineering_Final Project
 
 # 🔬 Reliability Prediction of Carbon-Film Resistors using Accelerated Degradation Models
 
+[![R](https://img.shields.io/badge/Language-R-blue.svg)](https://www.r-project.org/)
+[![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
+
 This repository contains the final project for the **Reliability Analysis** course, focusing on the two-stage accelerated degradation testing (ADT) and lifetime prediction of carbon-film resistors.
 
 ---
